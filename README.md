@@ -1,46 +1,46 @@
-# Ex09 Event Registration Web Application
+# Ex 09 EVENT REGISTRATION WEB APPLICATION
 
-## Date: 22/05/2025
+## DATE : 24/03/26
 
-## AIM:
+## AIM :
 
 To design, develop and deploy a web application for event registration.
 
-## DESIGN STEPS:
+## DESIGN STEPS :
 
-### Step 1:
+### STEP : 1 
 
 Create a new frame.
 
-### Step 2:
+### STEP : 2
 
 Select any one preset size of your choice.
 
-### Step 3:
+### STEP : 3
 
 Select the shapes you need.
 
-### Step 4:
+### STEP : 4
 
 Import images as needed.
 
-### Step 5:
+### STEP : 5
 
 Create pages based on your need and link them.
 
-### Step 6:
+### STEP : 6
 
 Validate the HTML and CSS code.
 
-### Step 6:
+### STEP : 7
 
 Publish the website in the given URL.
 
-## DESIGN TOOL:
+## DESIGN TOOL :
 
 Figma
 
-## CODE:
+## PROGRAM :
 ```
 <div class="container--0-">
 <svg
@@ -605,11 +605,12 @@ gradientUnits="userSpaceOnUse"
 </div>
 </div>
 ```
-## OUTPUT:
+## OUTPUT :
 
 ![WhatsApp Image 2025-05-22 at 09 27 30_fe9fe332](https://github.com/user-attachments/assets/07ad39d2-0376-4150-b031-00d00aefc151)
 
 ![WhatsApp Image 2025-05-22 at 09 27 41_ed30ea2b](https://github.com/user-attachments/assets/e1b4adad-b729-4a3a-9de2-bc5b553db834)
 
-## RESULT:
+## RESULT : 
+
 The program to design, develop and deploy a web application for event registration is completed successfully.
